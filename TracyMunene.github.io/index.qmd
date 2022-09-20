@@ -1,0 +1,40 @@
+---
+ Title: "Resume"
+---
+
+```{}
+```
+
+I'm a grad student in my final year at The University of Texas at Dallas. Strong development professional interested in working with organizations to design, implement and measure the impacts of their programs. Skilled in the tools of Monitoring and Evaluation, communication, research, program management, International Relations, Policy Analysis, and Planning.
+
+Skills
+
+*Technical* : STATA, R, Microsoft Excel, HTML, CSS, Google suite
+
+*Languages*: Advanced Swahili
+
+Interest
+
+-   International Development
+
+-   Democracy and Human Rights
+
+-   program management and Evaluation
+
+-   Public Policy
+
+Relevant Courses
+
+-   Public Policy
+
+-   Data Methods and Techniques
+
+-   Research Design
+
+-   Non profit Management
+
+Contacts
+
+linkedin : https://www.linkedin.com/in/Tracy Munene
+
+Website: TracyMunene.github.io
